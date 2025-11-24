@@ -28,8 +28,13 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-2/`
 - **README**: `Day-2\DAY-2-README.md`
 
-### 🔹 Day 3 – Coming soon…
-- *(Will update daily)*
+### 🔹 Day 3 – Health & Wellness Voice Companion
+- Built a wellness companion agent.
+- Checks in on mood, energy, and daily goals.
+- Saves check-ins to `wellness_log.json`.
+- References past sessions for continuity.
+- **Folder**: `Day-3/`
+- **README**: `Day-3\DAY-3-README.md`
 
 ---
 
