@@ -24,7 +24,7 @@ logger = logging.getLogger("agent")
 
 load_dotenv(".env.local")
 
-# Tutor content
+# Tutor conten
 CONTENT_PATH = Path("shared-data/day4_tutor_content.json")
 
 

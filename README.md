@@ -36,6 +36,17 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-3/`
 - **README**: `Day-3\DAY-3-README.md`
 
+### 🔹 Day 4 – Teach-the-Tutor Active Recall Coach
+- Built an active recall coach with 3 learning modes:
+  - **Learn mode** (Matthew voice).
+  - **Quiz mode** (Alicia voice).
+  - **Teach-back mode** (Ken voice).
+- Content sourced from a small JSON file.
+- Users can switch modes anytime.
+- Instant voice-switching powered by **Murf Falcon**.
+- **Folder**: `Day-4/`
+- **README**: `Day-4\DAY-4-README.md`
+
 ---
 
 ## 🚀 Tech Stack
