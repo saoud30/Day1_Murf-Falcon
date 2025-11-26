@@ -47,6 +47,15 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-4/`
 - **README**: `Day-4\DAY-4-README.md`
 
+### 🔹 Day 5 – Zerodha SDR + Lead Capture
+- Built a Sales Development Representative (SDR) agent for Zerodha.
+- Greets visitors and asks about their needs.
+- Uses a small Zerodha FAQ JSON file to answer product/pricing questions.
+- Collects key lead details during the call.
+- Generates an end-of-call summary and saves the lead to `zerodha_leads.json`.
+- **Folder**: `Day-5/`
+- **README**: `Day-5\DAY-5-README.md`
+
 ---
 
 ## 🚀 Tech Stack
