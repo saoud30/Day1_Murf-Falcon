@@ -1,0 +1,20 @@
+[
+  {
+    "userName": "John",
+    "securityIdentifier": "BLUEBIRD",
+    "securityQuestion": "What is your favorite color?",
+    "securityAnswer": "blue",
+
+    "cardEnding": "4242",
+    "transactionName": "ABC Industrial Supplies",
+    "transactionAmount": "₹12,499",
+    "transactionCategory": "E-commerce",
+    "transactionLocation": "Mumbai",
+    "transactionTime": "2025-01-16 14:52",
+
+    "transactionSource": "alibaba.com",
+
+    "status": "pending_review",
+    "outcomeNote": ""
+  }
+]

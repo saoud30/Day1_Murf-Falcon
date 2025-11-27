@@ -25,7 +25,7 @@ logger = logging.getLogger("agent")
 
 load_dotenv(".env.local")
 
-FRAUD_DB_PATH = Path("../shared-data/day6_fraud_cases.json")
+FRAUD_DB_PATH = Path("shared-data/day6_fraud_cases.json")
 
 
 # -----------------------------

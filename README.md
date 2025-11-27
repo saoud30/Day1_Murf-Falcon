@@ -56,6 +56,15 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-5/`
 - **README**: `Day-5\DAY-5-README.md`
 
+### 🔹 Day 6 – Fraud Alert Voice Agent
+- Built a voice-based Fraud Alert Agent for Horizon Bank.
+- Loads a fraud case from a JSON “database”.
+- Verifies the customer with a safe, non-sensitive question.
+- Reads out a suspicious transaction and asks if the customer made it.
+- Marks the case as safe or fraudulent and updates the database.
+- **Folder**: `Day-6/`
+- **README**: `Day-6\DAY-6-README.md`
+
 ---
 
 ## 🚀 Tech Stack

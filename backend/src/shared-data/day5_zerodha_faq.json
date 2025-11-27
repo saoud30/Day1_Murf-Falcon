@@ -1,0 +1,32 @@
+[
+  {
+    "id": "what_is_zerodha",
+    "question": "What is Zerodha and what does it do?",
+    "answer": "Zerodha is an online discount stockbroker based in India. It offers trading and investing in stocks, derivatives, currencies, commodities and mutual funds through its platforms like Kite and Coin.",
+    "tags": ["about", "company", "product", "zerodha", "overview"]
+  },
+  {
+    "id": "who_is_it_for",
+    "question": "Who is Zerodha for?",
+    "answer": "Zerodha is built for Indian retail investors and traders who want a low-cost, technology-first brokerage experience. It is suitable for beginners as well as active traders who prefer managing their own portfolios online.",
+    "tags": ["who", "for", "audience", "investors", "traders"]
+  },
+  {
+    "id": "pricing_core",
+    "question": "What are the main brokerage charges at Zerodha?",
+    "answer": "Equity delivery investments have zero brokerage. For intraday equity and F&O trades, Zerodha charges a flat fee of up to ₹20 or 0.03 percent per executed order, whichever is lower. Direct mutual fund investments are also available at zero commissions.",
+    "tags": ["pricing", "brokerage", "charges", "fees", "equity", "intraday", "f&o"]
+  },
+  {
+    "id": "account_opening",
+    "question": "How does account opening work?",
+    "answer": "You open a demat and trading account fully online, complete e-sign and verification, and then you can start investing and trading on Zerodha’s platforms once your account is approved.",
+    "tags": ["account", "open", "onboarding", "signup", "demat"]
+  },
+  {
+    "id": "platforms",
+    "question": "What trading platforms does Zerodha offer?",
+    "answer": "Zerodha’s main trading platform is Kite for web and mobile. It also offers Coin for direct mutual funds, Console for reports and analytics, and Varsity as an education platform for learning markets.",
+    "tags": ["platforms", "kite", "coin", "console", "varsity", "apps"]
+  }
+]
