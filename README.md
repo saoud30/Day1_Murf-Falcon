@@ -74,6 +74,14 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-7/`
 - **README**: `Day-7\DAY-7-README.md`
 
+### 🔹 Day 8 – Voice Game Master (D&D-Style Adventure)
+- Built an interactive D&D-style Game Master agent.
+- Runs a fantasy adventure using only conversation history.
+- Describes scenes in vivid detail and ends every message with “What do you do?”
+- Remembers past player decisions and allows a short 5–15 turn mini-arc.
+- **Folder**: `Day-8/`
+- **README**: `Day-8\DAY-8-README.md`
+
 ---
 
 ## 🚀 Tech Stack
