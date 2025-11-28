@@ -65,6 +65,15 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-6/`
 - **README**: `Day-6\DAY-6-README.md`
 
+### 🔹 Day 7 – Fitness Tracker Voice Agent
+- Built a fitness tracker agent to log workouts and provide fitness tips.
+- Tracks workout type, duration, and intensity.
+- Provides motivational tips and fitness advice based on user input.
+- Saves workout logs to `fitness_log.json`.
+- References past workouts to suggest improvements or consistency.
+- **Folder**: `Day-7/`
+- **README**: `Day-7\DAY-7-README.md`
+
 ---
 
 ## 🚀 Tech Stack

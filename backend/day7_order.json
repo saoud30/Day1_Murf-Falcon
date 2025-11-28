@@ -1,0 +1,21 @@
+{
+  "customer_name": "shazy",
+  "timestamp": "2025-11-28T20:59:53.100967",
+  "items": [
+    {
+      "item_id": "pasta_500g",
+      "name": "Pasta 500g",
+      "quantity": 1,
+      "unit_price": 120,
+      "subtotal": 120
+    },
+    {
+      "item_id": "pasta_sauce",
+      "name": "Tomato Pasta Sauce",
+      "quantity": 1,
+      "unit_price": 95,
+      "subtotal": 95
+    }
+  ],
+  "total": 215
+}
