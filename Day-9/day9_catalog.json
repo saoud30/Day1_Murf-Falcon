@@ -1,0 +1,56 @@
+[
+  {
+    "id": "mug-001",
+    "name": "Stoneware Coffee Mug",
+    "description": "Handmade white stoneware mug.",
+    "category": "mugs",
+    "price": 800,
+    "currency": "INR",
+    "color": "white"
+  },
+  {
+    "id": "mug-002",
+    "name": "Blue Ceramic Mug",
+    "description": "Navy blue ceramic coffee mug.",
+    "category": "mugs",
+    "price": 950,
+    "currency": "INR",
+    "color": "blue"
+  },
+  {
+    "id": "hoodie-001",
+    "name": "Black Cotton Hoodie",
+    "description": "Warm black hoodie with front pocket.",
+    "category": "hoodies",
+    "price": 1299,
+    "currency": "INR",
+    "color": "black"
+  },
+  {
+    "id": "hoodie-002",
+    "name": "Grey Oversized Hoodie",
+    "description": "Grey oversized fleece hoodie.",
+    "category": "hoodies",
+    "price": 1499,
+    "currency": "INR",
+    "color": "grey"
+  },
+  {
+    "id": "tee-001",
+    "name": "Basic White T-shirt",
+    "description": "Soft cotton white T-shirt.",
+    "category": "tshirts",
+    "price": 499,
+    "currency": "INR",
+    "color": "white"
+  },
+  {
+    "id": "tee-002",
+    "name": "Black Graphic Tee",
+    "description": "Black t-shirt with minimalistic print.",
+    "category": "tshirts",
+    "price": 699,
+    "currency": "INR",
+    "color": "black"
+  }
+]

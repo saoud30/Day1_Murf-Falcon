@@ -82,6 +82,15 @@ Each day has its own folder and documentation.
 - **Folder**: `Day-8/`
 - **README**: `Day-8\DAY-8-README.md`
 
+### 🔹 Day 9 – ACP-Inspired E-commerce Voice Agent
+- Created a voice-driven shopping assistant inspired by the Agentic Commerce Protocol (ACP).
+- Uses a product catalog stored in JSON.
+- Supports discovering products using filters like color, price, and category.
+- Places orders via backend functions and stores them in `day9_orders.json`.
+- Can recall the user's last order.
+- **Folder**: `Day-9/`
+- **README**: `Day-9\DAY-9-README.md`
+
 ---
 
 ## 🚀 Tech Stack
